@@ -1,4 +1,4 @@
-# docx-header-footer-cleaner
+# DocxHeaderFooterCleaner
 
 移除 Word（docx）文档的页眉与页脚，并在页脚居中插入自动页码。支持批量、递归处理与安全备份。
 
